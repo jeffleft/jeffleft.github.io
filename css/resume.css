@@ -34,9 +34,9 @@ h2 {
 
 .subheading {
   text-transform: uppercase;
-  font-weight: 700;
-  font-family: 'Raleway', sans-serif;
-  font-size: 1.35rem;
+  font-weight: 300;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: .85rem;
 }
 
 #sideNav .navbar-nav .nav-item .nav-link {
